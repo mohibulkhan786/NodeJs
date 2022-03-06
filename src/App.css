@@ -2,7 +2,7 @@
 .nav-ul {
   padding: 5px;
   margin: 0px;
-  background-color: skyblue;
+  background-color: gray;
 }
 .nav-ul li{
   display:  inline-block;
@@ -16,7 +16,7 @@
 .footer {
   position: absolute;
   bottom: 0;
-  background-color: skyblue;
+  background-color: gray;
   width: 100%;
   text-align: center;
 }
@@ -59,7 +59,7 @@
 .inputBox {
   padding: 7px;
   display: block;
-  border: 1px solid skyblue;
+  border: 1px solid black;
   width: 300px;
   margin: 20px;
 }
@@ -68,7 +68,7 @@
   margin: 20px;
   width: 150px;
   padding: 10px;
-  background-color: skyblue;
+  background-color: gray;
   border: solid 1px;
   cursor: pointer;
 }
